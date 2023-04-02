@@ -1,0 +1,16 @@
+E:\codingan\codingan visual studio\ClassAndObjects\bin\Debug\net5.0\ClassAndObjects.exe
+E:\codingan\codingan visual studio\ClassAndObjects\bin\Debug\net5.0\ClassAndObjects.deps.json
+E:\codingan\codingan visual studio\ClassAndObjects\bin\Debug\net5.0\ClassAndObjects.runtimeconfig.json
+E:\codingan\codingan visual studio\ClassAndObjects\bin\Debug\net5.0\ClassAndObjects.runtimeconfig.dev.json
+E:\codingan\codingan visual studio\ClassAndObjects\bin\Debug\net5.0\ClassAndObjects.dll
+E:\codingan\codingan visual studio\ClassAndObjects\bin\Debug\net5.0\ref\ClassAndObjects.dll
+E:\codingan\codingan visual studio\ClassAndObjects\bin\Debug\net5.0\ClassAndObjects.pdb
+E:\codingan\codingan visual studio\ClassAndObjects\obj\Debug\net5.0\ClassAndObjects.csproj.AssemblyReference.cache
+E:\codingan\codingan visual studio\ClassAndObjects\obj\Debug\net5.0\ClassAndObjects.GeneratedMSBuildEditorConfig.editorconfig
+E:\codingan\codingan visual studio\ClassAndObjects\obj\Debug\net5.0\ClassAndObjects.AssemblyInfoInputs.cache
+E:\codingan\codingan visual studio\ClassAndObjects\obj\Debug\net5.0\ClassAndObjects.AssemblyInfo.cs
+E:\codingan\codingan visual studio\ClassAndObjects\obj\Debug\net5.0\ClassAndObjects.csproj.CoreCompileInputs.cache
+E:\codingan\codingan visual studio\ClassAndObjects\obj\Debug\net5.0\ClassAndObjects.dll
+E:\codingan\codingan visual studio\ClassAndObjects\obj\Debug\net5.0\ref\ClassAndObjects.dll
+E:\codingan\codingan visual studio\ClassAndObjects\obj\Debug\net5.0\ClassAndObjects.pdb
+E:\codingan\codingan visual studio\ClassAndObjects\obj\Debug\net5.0\ClassAndObjects.genruntimeconfig.cache
